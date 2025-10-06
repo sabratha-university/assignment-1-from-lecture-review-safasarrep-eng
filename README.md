@@ -1,0 +1,24 @@
+# java-oop-assignment1
+“Java OOP assignment starter project  and UML practice.”
+
+## 🎯 Objective
+Practice key OOP concepts in Java by:
+- Calculating distance between locations.
+- Drawing UML diagrams for class hierarchies.
+
+---
+
+## 🧮 Part 1 – Location Distance
+Edit the `Main.java` file and:
+1. Replace `myLocation` coordinates with **your current location**.
+2. Run the code to calculate distance to **IT College.
+3. Identify where **overloading** and **overriding** occur in the code and explain the difference below.
+
+**Answer:**
+> _Write your explanation here..._
+
+---
+
+## 🎨 Part 2 – UML Diagram
+Draw the UML diagram using drwa.io or lucidchart for the Shape example (Shape → Circle → Movable, Adjustable.)  
+
