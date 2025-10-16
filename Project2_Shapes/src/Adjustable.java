@@ -1,3 +1,4 @@
+
 public interface Adjustable {
-    void resize(double factor);
+    void adjust(double factor);
 }
